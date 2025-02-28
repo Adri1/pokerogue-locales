@@ -65,6 +65,8 @@
   "noEscapeForce": "Una forza misteriosa\nimpedisce la fuga.",
   "noEscapeTrainer": "Non puoi sottrarti\nalla lotta con un'allenatore!",
   "noEscapePokemon": "{{moveName}} di {{pokemonName}}\npreviene la {{escapeVerb}}!",
+  "noEscapeSwitch": "Non puoi sostituire questo Pokémon!",
+  "noEscapeFlee": "Non è possibile scappare!",
   "runAwaySuccess": "Scampato pericolo!",
   "runAwayCannotEscape": "Non puoi fuggire!",
   "escapeVerbSwitch": "cambiando",
@@ -75,11 +77,12 @@
   "skipItemQuestion": "Sei sicuro di non voler prendere nessun oggetto?",
   "itemStackFull": "The stack for {{fullItemName}} is full.\nYou will receive {{itemName}} instead.",
   "eggHatching": "Oh?",
-  "eggSkipPrompt": "Visualizzare il resoconto delle schiusure?",
+  "eggSkipPrompt": "{{eggsToHatch}} uova si stanno per schiudere.\nVuoi saltare al resoconto?",
   "ivScannerUseQuestion": "Vuoi usare lo scanner di IV su {{pokemonName}}?",
   "wildPokemonWithAffix": "{{pokemonName}} selvatico",
   "foePokemonWithAffix": "{{pokemonName}} avversario",
   "useMove": "{{pokemonNameWithAffix}} usa\n{{moveName}}!",
+  "magicCoatActivated": "{{pokemonNameWithAffix}} ha rimandato {{moveName}} al mittente!",
   "drainMessage": "Viene prelevata energia\n da{{pokemonName}}!",
   "regainHealth": "{{pokemonName}} ha rigenerato\npunti salute!",
   "stealEatBerry": "{{pokemonName}} ha rubato e mangiato\nla {{berryName}} di {{targetName}}!",
@@ -112,5 +115,6 @@
   "ppReduced": "I PP della mossa {{moveName}} di\n{{targetName}} sono stati ridotti di {{reduction}}!",
   "mysteryEncounterAppeared": "Che succede?",
   "battlerTagsHealBlock": "{{pokemonNameWithAffix}} non può\ncurarsi!",
-  "battlerTagsHealBlockOnRemove": "{{pokemonNameWithAffix}} può\nnuovamente curarsi!"
+  "battlerTagsHealBlockOnRemove": "{{pokemonNameWithAffix}} può\nnuovamente curarsi!",
+  "pokemonTerastallized": "{{pokemonNameWithAffix}} si è Teracristallizzato in tipo {{type}}!"
 }

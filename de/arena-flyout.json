@@ -12,6 +12,7 @@
   "heavyRain": "Strömender Regen",
   "harshSun": "Sehr starker Sonnenschein",
   "strongWinds": "Luftströmungen",
+  "neutralizingGas": "Reaktionsgas",
   "misty": "Nebelfeld",
   "electric": "Elektrofeld",
   "grassy": "Grasfeld",
@@ -42,5 +43,7 @@
   "ionDeluge": "Plasmaschauer",
   "fireGrassPledge": "Feuersäulen",
   "waterFirePledge": "Regenbogen",
-  "grassWaterPledge": "Sumpf"
+  "grassWaterPledge": "Sumpf",
+  "fairyLock": "Feenschloss",
+  "imprison": "Begrenzer"
 }

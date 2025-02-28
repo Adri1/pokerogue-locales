@@ -12,6 +12,7 @@
   "heavyRain": "Chuva Forte",
   "harshSun": "Sol Forte",
   "strongWinds": "Ventos Fortes",
+  "neutralizingGas": "Neutralizing Gas",
   "misty": "Terreno Enevoado",
   "electric": "Terreno Elétrico",
   "grassy": "Terreno de Planta",
@@ -42,5 +43,7 @@
   "ionDeluge": "Ion Deluge",
   "fireGrassPledge": "Mar de Fogo",
   "waterFirePledge": "Arco-íris",
-  "grassWaterPledge": "Pântano"
+  "grassWaterPledge": "Pântano",
+  "fairyLock": "Fairy Lock",
+  "imprison": "Imprison"
 }

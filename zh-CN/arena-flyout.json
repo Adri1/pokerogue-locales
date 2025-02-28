@@ -12,6 +12,7 @@
   "heavyRain": "大雨",
   "harshSun": "大日照",
   "strongWinds": "乱流",
+  "neutralizingGas": "化学变化气体",
   "misty": "薄雾场地",
   "electric": "电气场地",
   "grassy": "青草场地",
@@ -42,5 +43,7 @@
   "ionDeluge": "等离子浴",
   "fireGrassPledge": "火海",
   "waterFirePledge": "彩虹",
-  "grassWaterPledge": "沼泽"
+  "grassWaterPledge": "沼泽",
+  "fairyLock": "妖精之锁",
+  "imprison": "封印"
 }

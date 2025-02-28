@@ -113,6 +113,9 @@
     "name": "Grosso e Cattivo",
     "description": "Ottieni una gigamax"
   },
+  "FLIP_STATS": {
+    "name": "Scambio Equivalente"
+  },
   "TERASTALLIZE": {
     "name": "STAB Per Tutti",
     "description": "Teracristallizza un Pokémon"
@@ -285,7 +288,7 @@
     "description": "Completa la modalità sfida Battaglia invertita.\n.atitrevni ailgattaB adifs àtiladom al atelpmoC"
   },
   "BREEDERS_IN_SPACE": {
-    "name": "Breeders in Space!",
-    "description": "Beat the Expert Pokémon Breeder in the Space Biome."
+    "name": "Allevapokémon nello spazio!",
+    "description": "Sconfiggi un allevapokémon o l'allevapokémon esperta nel bioma dello spazio."
   }
 }

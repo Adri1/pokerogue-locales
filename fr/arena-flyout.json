@@ -12,6 +12,7 @@
   "heavyRain": "Pluie Battante",
   "harshSun": "Soleil Brulant",
   "strongWinds": "Vent Mystérieux",
+  "neutralizingGas": "Gaz Inhibiteur",
   "misty": "Champ Brumeux",
   "electric": "Champ Électrifié",
   "grassy": "Champ Herbu",
@@ -42,5 +43,7 @@
   "ionDeluge": "Déluge Plasmique",
   "fireGrassPledge": "Mer de Feu",
   "waterFirePledge": "Arc-en-ciel",
-  "grassWaterPledge": "Marécage"
+  "grassWaterPledge": "Marécage",
+  "fairyLock": "Verrou Enchanté",
+  "imprison": "Possessif"
 }

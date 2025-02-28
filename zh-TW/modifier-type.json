@@ -103,13 +103,13 @@
       "description": "持有者經驗值獲取量增加{{boostPercent}}%。"
     },
     "PokemonFriendshipBoosterModifierType": {
-      "description": "每場戰鬥獲得的好感度提升50%。"
+      "description": "親密度獲取量增加50%。"
     },
     "PokemonMoveAccuracyBoosterModifierType": {
       "description": "招式命中率增加{{accuracyAmount}} (最大100)。"
     },
     "PokemonMultiHitModifierType": {
-      "description": "攻擊以60/75/82.5%的傷害造成2/3/4次傷害。"
+      "description": "將持有者本次傷害的25%轉化為一次獨立的攻擊。"
     },
     "TmModifierType": {
       "name": "招式學習器 {{moveId}} - {{moveName}}",
@@ -129,8 +129,7 @@
       "description": "融合兩隻寶可夢 (改變特性, 平分基礎點數\n和屬性, 共享招式池)。"
     },
     "TerastallizeModifierType": {
-      "name": "{{teraType}}太晶碎塊",
-      "description": "持有者獲得{{teraType}}太晶化10場戰鬥。"
+      "name": "{{teraType}}太晶碎塊"
     },
     "ContactHeldItemTransferChanceModifierType": {
       "description": "攻擊時{{chancePercent}}%概率偷取對手物品。"
@@ -159,8 +158,7 @@
       "description": "能讓攜帶着極巨菇菇戰鬥的寶可夢進行\n極巨化。"
     },
     "TERA_ORB": {
-      "name": "太晶珠",
-      "description": "能讓攜帶着太晶碎塊戰鬥的寶可夢進行\n太晶化。"
+      "name": "太晶珠"
     },
     "MAP": {
       "name": "地圖",
@@ -376,7 +374,7 @@
     },
     "IV_SCANNER": {
       "name": "個體值探測器",
-      "description": "允許掃描野生寶可夢的個體值。 每個次顯示\n2個個體值. 最好的個體值優先顯示。"
+      "description": "允許掃描野生寶可夢的個體值。"
     },
     "DNA_SPLICERS": {
       "name": "基因之楔"

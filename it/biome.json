@@ -34,5 +34,19 @@
   "SNOWY_FOREST": "Foresta innevata",
   "ISLAND": "Isola",
   "LABORATORY": "Laboratorio",
-  "END": "???"
+  "END": "???",
+  "COMMON": "Comune",
+  "UNCOMMON": "Non comune",
+  "RARE": "Raro",
+  "SUPER_RARE": "Super raro",
+  "ULTRA_RARE": "Ultra raro",
+  "BOSS": "Boss",
+  "BOSS_RARE": "Boss raro",
+  "BOSS_SUPER_RARE": "Boss super raro",
+  "BOSS_ULTRA_RARE": "Boss ultra raro",
+  "ALL": "Tutto",
+  "DAWN": "Alba",
+  "DAY": "Giorno",
+  "DUSK": "Tramonto",
+  "NIGHT": "Notte"
 }

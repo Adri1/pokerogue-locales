@@ -12,6 +12,7 @@
   "heavyRain": "大雨",
   "harshSun": "大日照",
   "strongWinds": "亂流",
+  "neutralizingGas": "化學變化氣體",
   "misty": "薄霧場地",
   "electric": "電氣場地",
   "grassy": "青草場地",
@@ -39,5 +40,7 @@
   "happyHour": "快樂時光",
   "safeguard": "神祕守護",
   "noCrit": "幸運咒語",
-  "ionDeluge": "等離子浴"
+  "ionDeluge": "等離子浴",
+  "fairyLock": "妖精之鎖",
+  "imprison": "封印"
 }

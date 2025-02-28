@@ -14,6 +14,8 @@
   "harshSun": "Harsh Sun",
   "strongWinds": "Strong Winds",
 
+  "neutralizingGas": "Neutralizing Gas",
+
   "misty": "Misty Terrain",
   "electric": "Electric Terrain",
   "grassy": "Grassy Terrain",
@@ -45,5 +47,7 @@
   "ionDeluge": "Ion Deluge",
   "fireGrassPledge": "Sea of Fire",
   "waterFirePledge": "Rainbow",
-  "grassWaterPledge": "Swamp"
+  "grassWaterPledge": "Swamp",
+  "fairyLock": "Fairy Lock",
+  "imprison": "Imprison"
 }
