@@ -1,5 +1,5 @@
 {
-  "trainerNameAndTitleWithAffix": "{{name}} {{title}}",
+  "trainerNameAndTitleWithAffix": "{{title}} {{name}}",
 
   "ace_trainer": "Ace Trainer",
   "ace_trainer_female": "Ace Trainer",
